@@ -1,6 +1,8 @@
 # MuseStudio
 实现 Muse 数据可视化的一个很好的python应用；适合开发一些美学展示系统，与OpenCV的视频数据流实时分析相结合。
 
+
+
 [![DOI](https://zenodo.org/badge/334904649.svg)](https://zenodo.org/badge/latestdoi/334904649)
 [![PyPI](https://img.shields.io/pypi/v/musestudio)](https://pypi.org/project/musestudio/)
 [![PyPI - License](https://img.shields.io/pypi/l/musestudio)](https://github.com/miguelascifo/MuseStudio/blob/main/LICENSE)
