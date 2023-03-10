@@ -1,5 +1,6 @@
 # MuseStudio
 实现 Muse 数据可视化的一个很好的python应用；适合开发一些美学展示系统，与OpenCV的视频数据流实时分析相结合。
+<img width="1242" alt="屏幕截图 2023-03-03 152341" src="https://user-images.githubusercontent.com/105711458/224209543-122adf3a-2331-4716-9d39-df1259339741.png">
 
 
 
